@@ -1,0 +1,2 @@
+# proyecto_predicciones_peliculas
+proyecto_predicciones_peliculas con aws
